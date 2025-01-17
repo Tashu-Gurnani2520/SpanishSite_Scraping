@@ -37,8 +37,4 @@ pip3 install -r requirements.txt
     ```
     browserstack-sdk ./tests/test.py
     ``` 
-* Run tests on locally hosted website:
-  - To run the local test across platforms defined in the `browserstack.yml` file, run:
-    ```
-    browserstack-sdk ./tests/local-test.py
-    ``` 
+

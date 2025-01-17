@@ -9,7 +9,7 @@ python3 should be installed
 ## Setup
 * Clone the repo
 ```
-git clone -b sdk https://github.com/browserstack/python-selenium-browserstack.git
+git clone -b sdk https://github.com/Tashu-Gurnani2520/SpanishSite_Scraping.git
 ``` 
 * Install packages through requirements.txt
 ```
